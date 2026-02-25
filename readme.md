@@ -21,7 +21,7 @@ To get started, follow these steps:
    Open `main.js` located in `config/main.js` with a text editor. In this file, you can change the `sitename` variable to your desired name. This variable controls both the tab title and the text displayed on the page. For example:
 
    ```javascript
-   var sitename = "Your Site Name";
+   var sitename = "Hitler unblocked";
    ```
 
    Changing this variable will update the title of the tab and certain text elements on the page accordingly.
